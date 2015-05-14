@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>de.ub0r.android.logg0r</groupId>
+  <artifactId>logg0r</artifactId>
+  <version>1.1.0</version>
+  <packaging>aar</packaging>
+  <name>ub0rlogg0r</name>
+  <description>A android.util.Log wrapper for easy removal of Log.d and Log.v calls with proguard</description>
+  <url>https://github.com/felixb/ub0rlogg0r</url>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>felixb</id>
+      <name>Felix Bechstein</name>
+      <email>f@ub0r.de</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>git://github.com/felixb/ub0rlogg0r.git</connection>
+    <developerConnection>git@github.com:felixb/ub0rlogg0r.git</developerConnection>
+    <url>git://github.com/felixb/ub0rlogg0r.git</url>
+  </scm>
+</project>

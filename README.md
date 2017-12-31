@@ -23,5 +23,5 @@ Simply add the repository to your build.gradle file:
 And add the dependency to your project like this:
 
     dependencies {
-        compile 'de.ub0r.android.ub0rlogg0r:logg0r:+'
+        compile 'de.ub0r.android.logg0r:logg0r:+'
     }
